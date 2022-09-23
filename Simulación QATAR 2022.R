@@ -12,7 +12,7 @@ base<-read.csv("Simulación QATAR 2022.csv")
 
 #Se calcula que tanto "más fuerte" es Brasil de Inglaterra 
 #A través de 1838/1737 = 1.058 
-#Por lo que Brasil es 5.8% más fuerte que Brasil
+#Por lo que Brasil es 5.8% más fuerte que Inglaterra
 
 #Se simulará una variable binomial p=0.5+0.058 
 #Donde p es la probabilidad de que gané el más fuerte (Brasil en este caso)
